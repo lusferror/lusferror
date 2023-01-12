@@ -29,7 +29,7 @@ Bienvenidos a mi pagina, soy Desarrollador Full Stack, me gustan los grandes ret
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lusferror&theme=tokyonight)](https://git.io/streak-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lusferror&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lusferror&exclude_repo=flask_api_todos,instagram_modeling,Flask_1&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lusferror&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3>Puedes encontrarme en: </h3>
 <p><a href="https://github.com/lusferror" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/RoblesDugarte" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/luis-robles-dugarte/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
