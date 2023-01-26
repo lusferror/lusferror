@@ -15,7 +15,7 @@ Bienvenidos a mi pagina, soy Desarrollador Full Stack, me gustan los grandes ret
   ![Postman](https://img.shields.io/badge/Postman-black?style=flat-square&logo=postman)
   ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
   ![PHP](https://img.shields.io/badge/PHP-black?style=flat-square&logo=php)
-  ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+  ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=Flat-square&logo=laravel&logoColor=white)
   ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
   ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
   ![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=flat-square&logo=vuedotjs)
