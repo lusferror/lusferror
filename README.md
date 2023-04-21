@@ -26,6 +26,7 @@ Bienvenidos a mi pagina, soy Desarrollador Full Stack, me gustan los grandes ret
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
   ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
   ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
+  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
 
 # Stats:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lusferror&theme=tokyonight)](https://git.io/streak-stats)
